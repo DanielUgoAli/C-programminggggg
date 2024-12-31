@@ -9,11 +9,13 @@
 
 //     return 0;
 // }
-int main(void){
+int main(void)
+{
     long i;
     int j = 1000;
 
     // i =  (long)j * j;
+    //
     // printf("ANS: %ld", i);
     printf("Size of int : %lu\n", sizeof(long long));
     return 0;
